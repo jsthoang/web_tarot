@@ -1,0 +1,44 @@
+html {
+  background-color: antiquewhite;
+}
+
+.header {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  position: relative;
+  top: 35vh;
+  left: 10vh;
+}
+
+.flxb_contain {
+  display: flex;
+  position: absolute;
+  top: 350px;
+  left: 17vw;
+  gap: 50px;
+}
+.flxb_contain button {
+  height: 8vh;
+  width: 15vh;
+  border-radius: 10px;
+  background: none;
+  font-size: 16px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.chon_1_la {
+  position: absolute;
+  top: 600px;
+  left: 8vw;
+  align-items: stretch;
+}
+.chon_1_la .cac_bo_flb button {
+  height: 8vh;
+  width: 15vh;
+  border-radius: 10px;
+  background: none;
+  font-size: 16px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*# sourceMappingURL=style.css.map */
