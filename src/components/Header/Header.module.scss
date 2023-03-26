@@ -1,0 +1,20 @@
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-shadow: 1px 1px 5px black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    .logo {
+        width: 80px;
+    }
+    nav {
+        ul {
+            display: flex;
+            justify-content: space-between;
+            flex-basis: 60%;
+        }
+    }
+}
